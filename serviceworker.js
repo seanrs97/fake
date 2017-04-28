@@ -17,7 +17,9 @@ var CACHED_URLS = [
     BASE_PATH + 'appImages/favicon-32x32.png',
 
     //Images for page
- 
+  
+    // JavaScript
+    BASE_PATH + 'offline-map.js',
     BASE_PATH + 'assets/js/material.js',
     // Manifest
     BASE_PATH + 'manifest.json',
