@@ -17,22 +17,8 @@ var CACHED_URLS = [
     BASE_PATH + 'appImages/favicon-32x32.png',
 
     //Images for page
-    BASE_PATH + 'appImages/offlinemap.jpg',
-    BASE_PATH + 'appImages/dino.png',
-    BASE_PATH + 'appImages/jack.jpg',
-    BASE_PATH + 'appImages/paddy.jpg',
-    BASE_PATH + 'appImages/favicon.ico',
-    BASE_PATH + 'appImages/favicon-16x16.png',
-    BASE_PATH + 'appImages/favicon-32x32.png',
-    BASE_PATH + 'appImages/favicon-96x96.png',
-    BASE_PATH + 'appImages/ms-icon-70x70.png',
-    BASE_PATH + 'appImages/ms-icon-144x144.png',
-    BASE_PATH + 'appImages/ms-icon-150x150.png',
-    BASE_PATH + 'appImages/ms-icon-310x310.png',
-	BASE_PATH + 'appImages/news-default.jpg',
-    // JavaScript
-    BASE_PATH + 'offline-map.js',
-    BASE_PATH + 'material.js',
+ 
+    BASE_PATH + 'assets/js/material.js',
     // Manifest
     BASE_PATH + 'manifest.json',
   // CSS and fonts
