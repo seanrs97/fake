@@ -20,7 +20,7 @@ var CACHED_URLS = [
   
     // JavaScript
     BASE_PATH + 'offline-map.js',
-    BASE_PATH + 'assets/js/material.js',
+    BASE_PATH + 'material.js',
     // Manifest
     BASE_PATH + 'manifest.json',
   // CSS and fonts
